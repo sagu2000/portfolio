@@ -372,7 +372,7 @@ export default function DynamicPortfolio() {
                 <a href="#projects">
                   <Button>View Projects</Button>
                 </a>
-                <a href="/Sagar_Pagad_Bengaluru.pdf" download className="inline-flex items-center gap-2">
+                <a href="#" download className="inline-flex items-center gap-2">
                   <Button className="group relative overflow-hidden bg-cyan-600 hover:bg-cyan-700 transition-all duration-300">
                     <span className="relative z-10 flex items-center gap-2">
                       <FileDown className="w-4 h-4 group-hover:scale-110 transition-transform" />
