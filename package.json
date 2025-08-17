@@ -35,5 +35,10 @@
   "preview": "vite preview",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
+},
+"homepage": "https://sagu2000.github.io/portfolio/",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
 }
 }
